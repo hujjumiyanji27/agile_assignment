@@ -100,6 +100,9 @@ function build_calendar($month, $year) {
     </style>
 </head>
 <body>
+    <?php
+    include_once 'header.php';
+    ?>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -109,5 +112,8 @@ function build_calendar($month, $year) {
             </div>
         </div>
     </div>
+    <?php
+    include_once 'footer.php';
+    ?>
 </body>
 </html>

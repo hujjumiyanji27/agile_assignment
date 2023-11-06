@@ -81,3 +81,123 @@ td {
 h2 {
     text-align: center;
 }
+
+
+/* for home page container2 */
+
+/* Style for container */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* Adjust as needed for spacing between cards */
+  flex-wrap: wrap; /* Allow cards to wrap to the next line if the container is not wide enough */
+  margin-top: 20px;
+}
+
+.container2 {
+  width: calc(25% - 20px); /* Adjust the width and margin as needed for spacing between cards */
+  margin: 10px; /* Adjust as needed for spacing between cards */
+  background: #f0f0f0; /* Optional background color for the cards */
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional box shadow for cards */
+}
+
+.container2 img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  transition: transform 0.2s;
+}
+
+.container2 img:hover {
+  transform: scale(1.1);
+}
+
+.container2 p {
+  font-size: 18px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.heading1 {
+ padding-top: 20%;
+ text-align: center;
+ font-family: Roboto;
+}
+
+/* footer css */
+/* footer css */
+/* Apply a white background to the entire footer */
+.cci_footer_row {
+  background-color: #fff;
+  padding: 20px;
+}
+
+/* Style each footer menu container (columns) */
+.cci_footer_menus_cont {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+/* Style individual footer menus (columns) */
+.cci_footer_menus {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.cci_footer_menus h3 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.cci_footer_menus ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cci_footer_menus li {
+  margin-bottom: 5px;
+}
+
+.cci_footer_menus a {
+  text-decoration: none;
+  color: #333; /* Text color */
+  transition: color 0.3s;
+}
+
+.cci_footer_menus a:hover {
+  color: #00b3e3; /* Text color on hover */
+}
+
+/* Style the footer logo */
+.cci_footer_logo {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cci_footer_logo img {
+  max-width: 200px;
+  height: auto;
+}
+
+/* Optional: Add some space around the footer menus */
+.cci_footer_row {
+  padding: 20px;
+}
+
+/* Optional: Center the entire footer content */
+.cci_content_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+hr {
+  border: 0;
+  height: 3px; /* Set the thickness of the line */
+  background-color: #000; /* Set the line color to black */
+  margin: 20px 0; /* Add margin for spacing */
+}

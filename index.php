@@ -11,7 +11,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Roboto+Slab:wght@100&display=swap" rel="stylesheet">
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Kenia&family=Roboto+Slab:wght@100&display=swap" rel="stylesheet">
 </head>
 <header>  <!-- for header -->
     <?php
@@ -57,13 +59,18 @@
 </div>
 
 
-<!-- second container start here -->
-<!-- first one here -->
 
-    <div class="container2">
-        <h1>How we Improve Technology for Children</h1>
+
+<!-- second container start here -->
+<h1 class="heading1">How we Improve Technology for Children</h1>
+
+<!-- first one here -->
+<div class="container">
+      <div class="container2">
+        <div class="desc">
         <img decoding="async" src="https://chici.org/wp-content/uploads/2021/11/point_1.png" alt="" class="wp-image-482" width="180" height="180" srcset="https://chici.org/wp-content/uploads/2021/11/point_1.png 360w, https://chici.org/wp-content/uploads/2021/11/point_1-300x300.png 300w, https://chici.org/wp-content/uploads/2021/11/point_1-150x150.png 150w" sizes="(max-width: 180px) 100vw, 180px">
         <p>Design Work</p>
+        </div>
     </div>
 
     <!-- second one -->
@@ -84,6 +91,14 @@
     <img decoding="async" loading="lazy" src="https://chici.org/wp-content/uploads/2021/11/point_4.png" alt="" class="wp-image-485" width="180" height="180" srcset="https://chici.org/wp-content/uploads/2021/11/point_4.png 360w, https://chici.org/wp-content/uploads/2021/11/point_4-300x300.png 300w, https://chici.org/wp-content/uploads/2021/11/point_4-150x150.png 150w" sizes="(max-width: 180px) 100vw, 180px">
         <p>Consultancy</p>
     </div>
+    </div>
+
 </div>
+
+<!-- useful resources -->
+
+<?php
+include_once 'footer.php';
+?>
 </body>
 </html>
