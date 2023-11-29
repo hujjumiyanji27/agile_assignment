@@ -23,10 +23,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>ChiCI Research Group Login</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
+
 <body>
     <div class="login-container">
         <h2>ChiCI Research Group Login</h2>
@@ -40,8 +42,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <input type="submit" value="Login">
         </form>
         <?php if (isset($error)) { ?>
-            <p class="error-message"><?php echo $error; ?></p>
+            <p class="error-message">
+                <?php echo $error; ?>
+            </p>
         <?php } ?>
     </div>
 </body>
+
 </html>
