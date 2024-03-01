@@ -16,8 +16,8 @@
 
 <style>
   .navbar{
-    margin-left: 15%;
-    font-size: 2em;
+    margin-left: 20%;
+
   }
   .navbar-nav .nav-link {
     margin-right: 180px; /* Adjust the space between navbar items */

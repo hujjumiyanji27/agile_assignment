@@ -5,11 +5,11 @@ $password= 'rAQTnjMv'; // 'website' if you use VM provided
 $dbasename = "hmmiyanji";
 
 // Create connection
-$mysqli = new mysqli($servername, $username, $password, $dbasename);
+$conn = new mysqli($servername, $username, $password, $dbasename);
 
 // Check connection
-if ($mysqli->connect_errno) 
+if ($conn->connect_errno) 
 {
-    printf("Connect failed: %s\n", $mysqli->connect_error);
+    printf("Connect failed: %s\n", $conn->connect_error);
     exit();
 }

@@ -281,7 +281,4 @@ window._conf = function($msg='',$func='',$params = []){
 		 })
 		 })
 </script>	
-
-
-<button><a href="http://localhost/agile/scheduling/staff_dashboard/show_availability.php">Submit Your Availability</a></button>
 </html>

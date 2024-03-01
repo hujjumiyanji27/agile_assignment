@@ -62,10 +62,10 @@
 
     <main>
         <div class="login-section">
-            <a href="http://localhost/agile/scheduling/admin/">
+            <a href="https://vesta.uclan.ac.uk/~hmmiyanji/agile/scheduling/admin/">
                 <button>Login as Admin</button>
             </a>
-            <a href="http://localhost/agile/scheduling/login.php">
+            <a href="https://vesta.uclan.ac.uk/~hmmiyanji/agile/scheduling/login.php">
                 <button>Login as Staff</button>
             </a>
  

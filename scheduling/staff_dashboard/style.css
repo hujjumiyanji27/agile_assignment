@@ -38,10 +38,14 @@ img {
 
 /* for the card overlapping */
 .card {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 100%;
+  position: absolute;
+  top: auto; /* Vertically center the card within the .box */
+  left: 20%; /* Horizontally center the card within the .box */
+  transform: translate(
+    -50%,
+    -50%
+  ); /* Center both horizontally and vertically */
+  margin: 0; /* Remove any margin added by Bootstrap */
 }
 
 /* container 2 */

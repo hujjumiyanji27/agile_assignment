@@ -59,7 +59,7 @@ header("location:index.php");
                 </center>
             </form>
             <center>
-                <a href="http://vesta.uclan.ac.uk/~hmmiyanji/agile/whologin.php" class="btn-sm btn-block btn-wave col-md-4 btn-primary">Back</a>
+                <a href="https://vesta.uclan.ac.uk/~hmmiyanji/agile/whologin.php" class="btn-sm btn-block btn-wave col-md-4 btn-primary">Back</a>
             </center>
         </div>
     </div>
@@ -98,7 +98,7 @@ $('#login-form').submit(function(e) {
         },
         success: function(resp) {
             if(resp == 1) {
-                location.href = 'http://localhost/agile/scheduling/index.php';
+                location.href = 'https://vesta.uclan.ac.uk/~hmmiyanji/agile/scheduling/staff_dashboard/stafflogin.php';
             } else {
                 $('#login-form').prepend('<div class="alert alert-danger">ID Number is incorrect.</div>');
                 $('#login-form button[type="submit"]').removeAttr('disabled').html('Login');

@@ -363,21 +363,33 @@ Class Action {
 			return 1;
 		}
 	}
-	function get_schecdule(){
+	function get_schecdule() {
 		extract($_POST);
 		$data = array();
-		$qry = $this->db->query("SELECT * FROM schedules where faculty_id = 0 or faculty_id = $faculty_id");
-		while($row=$qry->fetch_assoc()){
-			if($row['is_repeating'] == 1){
+		
+		// Check if 'faculty_id' is set to 'all'
+		if($faculty_id == 'all') {
+			// Query to get schedules for all faculty
+			$qry = $this->db->query("SELECT * FROM schedules");
+		} else {
+			// Query to get schedules for a specific faculty
+			// Ensure proper sanitization to prevent SQL injection
+			$faculty_id = $this->db->real_escape_string($faculty_id);
+			$qry = $this->db->query("SELECT * FROM schedules WHERE faculty_id = $faculty_id");
+		}
+	
+		while($row = $qry->fetch_assoc()) {
+			if($row['is_repeating'] == 1) {
 				$rdata = json_decode($row['repeating_data']);
-				foreach($rdata as $k =>$v){
+				foreach($rdata as $k => $v) {
 					$row[$k] = $v;
 				}
 			}
 			$data[] = $row;
 		}
-			return json_encode($data);
+		return json_encode($data);
 	}
+	
 	function delete_forum(){
 		extract($_POST);
 		$delete = $this->db->query("DELETE FROM forum_topics where id = ".$id);

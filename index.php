@@ -46,50 +46,37 @@
 
 
   <!-- trial cards -->
-
-
-  <div class="container mt-4" style="margin-top:-8px">
-    <div class="row">
-      <div class="col-12 col-sm-4">
-        <div class="card mb-4" style="width: 18rem; margin: 20px 20px; height:45%">
-          <img src="logo.png" class="card-img-top" alt="..." style="height: 45%;">
-          <div class="card-body">
-            <!-- <h5 class="card-title">About Us</h5> -->
-            <a href="#" class="btn btn-primary">About Us</a>
-            <p class="card-text">Never heard of us before? Click here to find out more about our organisation</p>
-            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-          </div><!-- Logo -->
-        </div>
-      </div>
-      <div class="col-12 col-sm-4">
-        <div class="card mb-4" style="width: 18rem; margin: 20px 30%; height:45%">
-          <img src="ethics_word_bubble.png" class="card-img-top" alt="..." style="height: 45%;">
-          <div class="card-body">
-            <!-- <h5 class="card-title">About Us</h5> -->
-            <a href="#" class="btn btn-primary">ChiCI’s Ethics</a>
-            <p class="card-text">We’ve participated in a variety of conferences and events that discuss the ethical
-              implications of children’s participation in research.</p>
-            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-          </div>
-        </div><!-- Navigation --><!-- Search Icon -->
-      </div>
-      <div class="col-12 col-sm-4">
-        <div class="card mb-4" style="width: 18rem; margin: 20px 60%; height:45%">
-          <img src="collab_thumb.png" class="card-img-top" alt="..." style="height: 45%;">
-          <div class="card-body">
-            <!-- <h5 class="card-title">About Us</h5> -->
-            <a href="#" class="btn btn-primary">Collaborations</a>
-            <p class="card-text">Over the last 20 years, we’ve worked with many schools, universities and organisations.
-            </p>
-            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-          </div>
-        </div>
-      </div>
+  <div class="container">
+    <!-- First Card -->
+    <div class="container2">
+      <img src="logo.png" alt="Design Work" class="wp-image">
+      <a href="#" class="link-underline-primary">About Us</a>
+      <p class="card-text">Never heard of us before? Click here to find out more about our organisation</p>
     </div>
 
+    <!-- Second Card -->
+    <div class="container2">
+      <img src="ethics_word_bubble.png" alt="Evaluation of Technology"
+        class="wp-image">
+        <a href="#" class="link-underline-primary">ChiCI’s Ethics</a>
+      <p class="card-text">We’ve participated in a variety of conferences and events that discuss the ethical
+              implications of children’s participation in research.</p>
+
+
+              
+    </div>
+
+    <!-- Third Card -->
+    <div class="container2">
+      <img src="collab_thumb.png" alt="Design Work" class="wp-image">
+      <a href="#" class="link-underline-primary">Collaborations</a>
+      <p class="card-text">Over the last 20 years, we’ve worked with many schools, universities and organisations.</p>
+    </div>
   </div>
 
-  </div>
+
+
+  
   <!-- about us card-->
 
 
@@ -153,53 +140,30 @@
 
   <!-- card for box 2 -->
 
-  <div class="container" style="margin-top:-8px">
-    <div class="row">
-      <div class="col-12 col-sm-4">
-
-        <!-- card 1 -->
-        <div class="card" style="width: 18rem; margin: 20px 20px; height:45%">
-          <img src="https://chici.org/wp-content/uploads/2021/09/publications_thumb.png" class="card-img-top" alt="..."
-            style="height: 45%;">
-          <div class="card-body">
-            <!-- <h5 class="card-title">About Us</h5> -->
-            <a href="#" class="link-underline-primary">Publications</a>
-            <p class="card-text">Browse from a catalogue of over 50 publications produced by us.</p>
-            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-          </div><!-- Logo -->
-        </div>
-      </div>
-      <div class="col-12 col-sm-4">
-        <!-- card 2 -->
-        <div class="card" style="width: 18rem; margin: 20px 30%; height:45%">
-          <img src="https://chici.org/wp-content/uploads/2018/02/post_ft_trees.png" class="card-img-top" alt="..."
-            style="height: 45%;">
-          <div class="card-body">
-            <!-- <h5 class="card-title">About Us</h5> -->
-            <a href="#" class="link-underline-primary">Projects</a>
-            <p class="card-text">Here are some examples of projects we have conducted from our MESS Days.</p>
-            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-          </div>
-        </div><!-- Navigation --><!-- Search Icon -->
-      </div>
-      <div class="col-12 col-sm-4">
-        <!-- card 3 -->
-        <div class="card" style="width: 18rem; margin: 20px 60%; height:45%">
-          <img src="box2_card3.png" class="card-img-top" alt="..." style="height: 45%;">
-          <div class="card-body">
-            <!-- <h5 class="card-title">About Us</h5> -->
-            <a href="#" class="link-underline-primary">UX Playbook</a>
-            <p class="card-text">Over the last 20 years, we’ve worked with many schools, universities and organisations.
-            </p>
-            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
-          </div>
-        </div>
-      </div>
+  <div class="container">
+    <!-- First Card -->
+    <div class="container2">
+      <img src="https://chici.org/wp-content/uploads/2021/09/publications_thumb.png" alt="Design Work" class="wp-image">
+      <a href="#" class="link-underline-primary">Publications</a>
+      <p class="card-text">Browse from a catalogue of over 50 publications produced by us.</p>
     </div>
 
+    <!-- Second Card -->
+    <div class="container2">
+      <img src="https://chici.org/wp-content/uploads/2018/02/post_ft_trees.png" alt="Evaluation of Technology"
+        class="wp-image">
+        <a href="#" class="link-underline-primary">Projects</a>
+      <p class="card-text">Here are some examples of projects we have conducted from our MESS Days.</p>
+    </div>
+
+    <!-- Third Card -->
+    <div class="container2">
+      <img src="https://chici.org/wp-content/uploads/2021/09/publications_thumb.png" alt="Design Work" class="wp-image">
+      <a href="#" class="link-underline-primary">Publications</a>
+      <p class="card-text">Browse from a catalogue of over 50 publications produced by us.</p>
+    </div>
   </div>
 
-  </div>
 
 
   <!-- take a part in our mess day book it and come for visit -->
