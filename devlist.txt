@@ -1,0 +1,381 @@
+ACPI\PNP0C02\1
+    Name: Motherboard resources
+    Device is currently stopped.
+ACPI\PNP0C02\2
+    Name: Motherboard resources
+    Device is currently stopped.
+ACPI\PNP0C02\5
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\EXTENSION\0000
+    Name: McAfeeIntegrationDriver Device
+    Driver is running.
+USB\ROOT_HUB30\4&27BCF9AB&0&0
+    Name: USB Root Hub (USB 3.0)
+    Driver is running.
+ACPI\PNP0C0A\0
+    Name: Microsoft ACPI-Compliant Control Method Battery
+    Driver is running.
+ACPI\ASUS2018\2&DABA3FF&0
+    Name: ASUS System Control Interface v3
+    Device is currently stopped.
+USB\VID_0B05&PID_6202&MI_03\6&33E5060B&0&0003
+    Name: USB Input Device
+    Driver is running.
+SWD\DRIVERENUM\OEM_ICLS_COMPONENT&4&23806711&0
+    Name: Intel(R) iCLS Client
+    Driver is running.
+ACPI\ACPI000C\2&DABA3FF&0
+    Name: ACPI Processor Aggregator
+    Driver is running.
+INTELAUDIO\CTLR_DEV_34C8&LINKTYPE_02&DEVTYPE_00&VEN_8086&DEV_AE20&SUBSYS_10436202&REV_10EC\5&DD2F11F&0&0000
+    Name: Intel® Smart Sound Technology (Intel® SST)
+    Driver is running.
+SWD\PRINTENUM\PRINTQUEUES
+    Name: Root Print Queue
+    Driver is running.
+ROOT\VOLMGR\0000
+    Name: Volume Manager
+    Driver is running.
+PCI\VEN_8086&DEV_34E0&SUBSYS_1DB21043&REV_30\3&11583659&0&B0
+    Name: Intel(R) Management Engine Interface #1
+    Driver is running.
+ACPI\PNP0C09\4&F0EAB84&0
+    Name: Microsoft ACPI-Compliant Embedded Controller
+    Driver is running.
+PCI\VEN_8086&DEV_282A&SUBSYS_1DB21043&REV_30\3&11583659&0&B8
+    Name: Intel(R) Chipset SATA/PCIe RST Premium Controller
+    Driver is running.
+PCI\VEN_8086&DEV_8A03&SUBSYS_1DB21043&REV_03\3&11583659&0&20
+    Name: Intel(R) Dynamic Tuning Processor Participant
+    Driver is running.
+ACPI\INT3400\2&DABA3FF&0
+    Name: Intel(R) Dynamic Tuning Manager
+    Driver is running.
+PCI\VEN_15B7&DEV_5009&SUBSYS_500915B7&REV_01\4&119DDAAE&0&00EC
+    Name: Standard NVM Express Controller
+    Driver is running.
+PCI\VEN_8086&DEV_34E8&SUBSYS_1DB21043&REV_30\3&11583659&0&A8
+    Name: Intel(R) Serial IO I2C Host Controller - 34E8
+    Driver is running.
+STORAGE\VOLUME\{1F325FD1-3AB9-11ED-BB3D-806E6F6E6963}#0000000011500000
+    Name: Volume
+    Driver is running.
+ROOT\BASICDISPLAY\0000
+    Name: Microsoft Basic Display Driver
+    Driver is running.
+ACPI\INT3403\SEN1
+    Name: Intel(R) Dynamic Tuning Generic Participant
+    Driver is running.
+ACPI\THERMALZONE\THRM
+    Name: ACPI Thermal Zone
+    Driver is running.
+SWD\DRIVERENUM\OEM_LMS_COMPONENT&4&23806711&0
+    Name: Generic software component
+    Driver is running.
+PCI\VEN_8086&DEV_34AA&SUBSYS_1DB21043&REV_30\3&11583659&0&F2
+    Name: Intel(R) Serial IO SPI Host Controller - 34AA
+    Driver is running.
+HID\ELAN1200&COL03\5&150F7C31&0&0002
+    Name: Microsoft Input Configuration Device
+    Driver is running.
+ROOT\HVSERVICE\0000
+    Name: Microsoft Hypervisor Service
+    Driver is running.
+SWD\MMDEVAPI\{0.0.0.00000000}.{3F5449FA-9FF0-4D3A-971F-3A0ECB067426}
+    Name: Speakers (C-Media(R) Audio)
+    Driver is running.
+INTELAUDIO\FUNC_01&VEN_8086&DEV_280F&SUBSYS_80860101&REV_1000\5&DD2F11F&0&0201
+    Name: Intel(R) Display Audio
+    Driver is running.
+SWD\MMDEVAPI\{0.0.1.00000000}.{15E119C6-FB52-4492-97F1-9F97B03AFEA0}
+    Name: Microphone Array (Intel® Smart Sound Technology (Intel® SST))
+    Driver is running.
+SWD\DRIVERENUM\{0F0ED162-AD8A-B01E-D1D0-5780C1E99F16}#DTSHSA&7&3D27324&0
+    Name: DTS Audio Hardware Support Application
+    Driver is running.
+ACPI\PNP0100\4&F0EAB84&0
+    Name: System timer
+    Device is currently stopped.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_1
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_2
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_3
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_4
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_5
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_6
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_7
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_126_-_INTEL(R)_CORE(TM)_I5-1035G1_CPU_@_1.00GHZ\_8
+    Name: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+    Driver is running.
+ROOT\VID\0000
+    Name: Microsoft Hyper-V Virtualization Infrastructure Driver
+    Driver is running.
+BTH\MS_BTHBRB\6&86B6160&0&1
+    Name: Microsoft Bluetooth Enumerator
+    Driver is running.
+ACPI\PNP0103\0
+    Name: High precision event timer
+    Device is currently stopped.
+SWD\MMDEVAPI\{0.0.1.00000000}.{CA7AC5B8-433B-4486-A03B-ECEDA7E31730}
+    Name: Microphone (C-Media(R) Audio)
+    Driver is running.
+ROOT\COMPOSITEBUS\0000
+    Name: Composite Bus Enumerator
+    Driver is running.
+ROOT\VDRVROOT\0000
+    Name: Microsoft Virtual Drive Enumerator
+    Driver is running.
+ROOT\SPACEPORT\0000
+    Name: Microsoft Storage Spaces Controller
+    Driver is running.
+STORAGE\VOLUME\{1F325FD1-3AB9-11ED-BB3D-806E6F6E6963}#0000000010500000
+    Name: Volume
+    Driver is running.
+SWD\DRIVERENUM\{AC7C67E6-F305-490A-A1A3-C65A1369351E}#CMJDS&7&3D27324&0
+    Name: C-Media Audio Control Panel
+    Driver is running.
+ROOT\KDNIC\0000
+    Name: Microsoft Kernel Debug Network Adapter
+    Driver is running.
+USB\VID_13D3&PID_5467\0000
+    Name: USB Composite Device
+    Driver is running.
+ACPI\INT3F0D\4&F0EAB84&0
+    Name: Motherboard resources
+    Device is currently stopped.
+STORAGE\VOLUME\{1F325FD1-3AB9-11ED-BB3D-806E6F6E6963}#0000000000100000
+    Name: Volume
+    Driver is running.
+BTH\MS_BTHLE\6&86B6160&0&3
+    Name: Microsoft Bluetooth LE Enumerator
+    Driver is running.
+PCI\VEN_8086&DEV_34A3&SUBSYS_1DB21043&REV_30\3&11583659&0&FC
+    Name: Intel(R) SMBus - 34A3
+    Device is currently stopped.
+SWD\DRIVERENUM\IGCC&4&357BB99&0
+    Name: Intel(R) Graphics Command Center
+    Driver is running.
+ACPI\INT3455\2&DABA3FF&0
+    Name: Intel(R) Serial IO GPIO Host Controller - INT3455
+    Driver is running.
+ACPI\PNP0C02\PCHRESV
+    Name: Motherboard resources
+    Device is currently stopped.
+PCI\VEN_8086&DEV_34B4&SUBSYS_1DB21043&REV_30\3&11583659&0&EC
+    Name: Intel(R) PCI Express Root Port #13 - 34B4
+    Driver is running.
+DISPLAY\CMN15F5\4&357BB99&0&UID8388688
+    Name: Generic PnP Monitor
+    Driver is running.
+ROOT\UMBUS\0000
+    Name: UMBus Root Bus Enumerator
+    Driver is running.
+ROOT\CAD\0000
+    Name: Charge Arbitration Driver
+    Driver is running.
+USB\VID_0B05&PID_6202&MI_00\6&33E5060B&0&0000
+    Name: C-Media(R) Audio
+    Driver is running.
+ACPI\PNP0C14\SAMPLEDEV
+    Name: Microsoft Windows Management Interface for ACPI
+    Driver is running.
+ACPI\ELAN1200\1
+    Name: I2C HID Device
+    Driver is running.
+SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+    Name: Microsoft Radio Device Enumeration Bus
+    Driver is running.
+SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+    Name: Microsoft Device Association Root Enumerator
+    Driver is running.
+ROOT\ACPI_HAL\0000
+    Name: ACPI x64-based PC
+    Driver is running.
+PCI\VEN_8086&DEV_34A8&SUBSYS_1DB21043&REV_30\3&11583659&0&F0
+    Name: Intel(R) Serial IO UART Host Controller - 34A8
+    Driver is running.
+PCI\VEN_8086&DEV_34B1&SUBSYS_1DB21043&REV_30\3&11583659&0&E8
+    Name: Intel(R) PCI Express Root Port #10 - 34B1
+    Driver is running.
+ACPI\PNP0C14\ATK
+    Name: Microsoft Windows Management Interface for ACPI
+    Driver is running.
+ACPI\PNP0C14\TESTDEV
+    Name: Microsoft Windows Management Interface for ACPI
+    Driver is running.
+ACPI\PNP0A08\0
+    Name: PCI Express Root Complex
+    Driver is running.
+SCSI\DISK&VEN_NVME&PROD_WDC_PC_SN530_SDB\5&319D16BD&0&000000
+    Name: WDC PC SN530 SDBPNPZ-256G-1002
+    Driver is running.
+STORAGE\VOLUME\{1F325FD1-3AB9-11ED-BB3D-806E6F6E6963}#0000003B91E00000
+    Name: Volume
+    Driver is running.
+ACPI_HAL\PNP0C08\0
+    Name: Microsoft ACPI-Compliant System
+    Driver is running.
+HTREE\ROOT\0
+    Driver is running.
+ROOT\BASICRENDER\0000
+    Name: Microsoft Basic Render Driver
+    Driver is running.
+ROOT\SOFTWARECOMPONENT\0000
+    Name: ASUS App Component
+    Device is currently stopped.
+ROOT\MCAFEESWITCH\0000
+    Name: McAfeeIntegrationDriver Device
+    Driver is running.
+ACPI_HAL\UEFI\0
+    Name: Microsoft UEFI-Compliant System
+    Driver is running.
+SWD\DRIVERENUM\OEM_DAL_COMPONENT&4&23806711&0
+    Name: Intel(R) Dynamic Application Loader Host Interface
+    Driver is running.
+BTH\MS_RFCOMM\6&86B6160&0&0
+    Name: Bluetooth Device (RFCOMM Protocol TDI)
+    Driver is running.
+STORAGE\VOLUME\{1F325FD1-3AB9-11ED-BB3D-806E6F6E6963}#0000003B4D200000
+    Name: Volume
+    Driver is running.
+PCI\VEN_10EC&DEV_C821&SUBSYS_304B1A3B&REV_00\00E04CFFFEC8210100
+    Name: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+    Driver is running.
+ACPI\ACPI0003\5&E328C16&0
+    Name: Microsoft AC Adapter
+    Driver is running.
+ACPI\MSFT0101\1
+    Name: Trusted Platform Module 2.0
+    Driver is running.
+SWD\DRIVERENUM\{0F0ED162-AD8A-B01E-D1D0-5780C1E99F16}#DTSSERVICE&7&3D27324&0
+    Name: DTS APO4x Service Component
+    Driver is running.
+ACPI\FIXEDBUTTON\2&DABA3FF&0
+    Name: ACPI Fixed Feature Button
+    Driver is running.
+SWD\DRIVERENUM\{AC7C67E6-F305-490A-A1A3-C65A1369351E}#CMAPO&7&3D27324&0
+    Name: C-Media Audio Effects
+    Driver is running.
+SWD\DRIVERENUM\PINNINGSHELLEXTENSION&4&23BE722&0
+    Name: Generic software component
+    Driver is running.
+SWD\DRIVERENUM\CUI&4&357BB99&0
+    Name: Intel(R) Graphics Control Panel
+    Driver is running.
+ACPI\ACPI000E\2&DABA3FF&0
+    Name: ACPI Wake Alarm
+    Driver is running.
+ACPI\ATK3001\4&F0EAB84&0
+    Name: PC/AT Enhanced PS/2 Keyboard (101/102-Key)
+    Driver is running.
+INTELAUDIO\DSP_CTLR_DEV_34C8&VEN_8086&DEV_0222&SUBSYS_14F21043&REV_0030\4&1725AAD1&0&0800
+    Name: Intel(R) Smart Sound Technology (Intel(R) SST) OED
+    Driver is running.
+ACPI\PNP0C0D\5&E328C16&0
+    Name: ACPI Lid
+    Driver is running.
+ACPI\INT33A1\1
+    Name: Intel(R) Power Engine Plug-in
+    Driver is running.
+ACPI\PNP0C02\IOTRAPS
+    Name: Motherboard resources
+    Device is currently stopped.
+USB\VID_13D3&PID_5467&MI_00\6&23700070&0&0000
+    Name: USB2.0 HD UVC WebCam
+    Driver is running.
+SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+    Name: Microsoft GS Wavetable Synth
+    Driver is running.
+HID\ELAN1200&COL01\5&150F7C31&0&0000
+    Name: HID-compliant mouse
+    Driver is running.
+PCI\VEN_8086&DEV_34E9&SUBSYS_1DB21043&REV_30\3&11583659&0&A9
+    Name: Intel(R) Serial IO I2C Host Controller - 34E9
+    Driver is running.
+ROOT\NDISVIRTUALBUS\0000
+    Name: NDIS Virtual Network Adapter Enumerator
+    Driver is running.
+SWD\RADIO\BLUETOOTH_2C3B70598A54
+    Name: Bluetooth
+    Driver is running.
+SWD\DRIVERENUM\{AC7C67E6-F305-490A-A1A3-C65A1369351E}#CMAPO&6&13A24B55&0
+    Name: C-Media Audio Effects (INT)
+    Driver is running.
+USB\VID_0B05&PID_6202\5&228E8A6C&0&8
+    Name: USB Composite Device
+    Driver is running.
+{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&3655499&0&11
+    Name: Microsoft Wi-Fi Direct Virtual Adapter
+    Driver is running.
+PCI\VEN_8086&DEV_8A56&SUBSYS_1F9C1043&REV_07\3&11583659&0&10
+    Name: Intel(R) UHD Graphics
+    Driver is running.
+USB\VID_0B95&PID_772B\002F19
+    Name: ASIX AX88772C USB2.0 to Fast Ethernet Adapter
+    Driver is running.
+HID\VID_0B05&PID_6202&MI_03\7&F824DEC&0&0000
+    Name: HID-compliant consumer control device
+    Driver is running.
+SWD\DRIVERENUM\{0F0ED162-AD8A-B01E-D1D0-5780C1E99F16}#DTSAPO&7&3D27324&0
+    Name: DTS Audio Effects Component
+    Driver is running.
+SWD\RADIO\{E791BB9A-559C-4852-A209-76FCB3D50B30}
+    Name: WiFi
+    Driver is running.
+PCI\VEN_8086&DEV_8A12&SUBSYS_1DB21043&REV_03\3&11583659&0&00
+    Name: PCI standard host CPU bridge
+    Driver is running.
+ROOT\MSSMBIOS\0000
+    Name: Microsoft System Management BIOS Driver
+    Driver is running.
+UEFI\RES_{06E9E8CF-F008-556C-9EA1-A01004A64FB7}\0
+    Name: System Firmware
+    Driver is running.
+USB\VID_13D3&PID_3557\00E04C000001
+    Name: Realtek Bluetooth Adapter
+    Driver is running.
+ACPI\PNP0000\4&F0EAB84&0
+    Name: Programmable interrupt controller
+    Device is currently stopped.
+ROOT\SYSTEM\0000
+    Name: Plug and Play Software Device Enumerator
+    Driver is running.
+PCI\VEN_8086&DEV_34C8&SUBSYS_14F21043&REV_30\3&11583659&0&FB
+    Name: Intel(R) Smart Sound Technology (Intel(R) SST) Audio Controller
+    Driver is running.
+HID\ELAN1200&COL02\5&150F7C31&0&0001
+    Name: ASUS Precision Touchpad
+    Driver is running.
+PCI\VEN_8086&DEV_34EF&SUBSYS_1DB21043&REV_30\3&11583659&0&A2
+    Name: PCI standard RAM Controller
+    Device is currently stopped.
+ROOT\RDPBUS\0000
+    Name: Remote Desktop Device Redirector Bus
+    Driver is running.
+BTH\MS_BTHPAN\6&86B6160&0&2
+    Name: Bluetooth Device (Personal Area Network)
+    Driver is running.
+PCI\VEN_8086&DEV_34A4&SUBSYS_1DB21043&REV_30\3&11583659&0&FD
+    Name: Intel(R) SPI (flash) Controller - 34A4
+    Device is currently stopped.
+PCI\VEN_8086&DEV_3482&SUBSYS_1DB21043&REV_30\3&11583659&0&F8
+    Name: I/O LPC Controller (U Premium) - 3482 for Intel(R) On-Package Platform Controller Hub
+    Driver is running.
+PCI\VEN_8086&DEV_34ED&SUBSYS_201F1043&REV_30\3&11583659&0&A0
+    Name: Intel(R) USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
+    Driver is running.
+127 matching device(s) found.
